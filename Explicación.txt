@@ -1,0 +1,4 @@
+Se usó cable Serial CDE por las siguiente ventajas
+[VENTAJAS
+El Router uno y dos se configuraron manualmente. Este es el código:
+--CODIGO Y EXPLICACIÓN PARA NETEO Y DESARROLLO DE MASCARAS E IP PARA EXPLICACIÓN
